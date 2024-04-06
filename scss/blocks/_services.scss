@@ -37,11 +37,11 @@
   }
 
   &__item:nth-child(1) {
-    background-image: url(../../img/card-1.jpg);
+    background-image: url(../img/card-1.jpg);
   }
 
   &__item:nth-child(4) {
-    background-image: url(../../img/card-4.jpg);
+    background-image: url(../img/card-4.jpg);
   }
 
   &__item:nth-child(2) {
@@ -51,7 +51,7 @@
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1/2;
-    background-image: url(../../img/card-2.jpg);
+    background-image: url(../img/card-2.jpg);
   }
 
   &__item:nth-child(3) {
@@ -61,7 +61,7 @@
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2/3;
-    background-image: url(../../img/card-3.jpg);
+    background-image: url(../img/card-3.jpg);
   }
 
   &__card {
@@ -142,16 +142,16 @@
     }
 
     &__item:nth-child(1) {
-      background-image: url(../../img/card-1-1200.jpg);
+      background-image: url(../img/card-1-1200.jpg);
     }
     &__item:nth-child(2) {
-      background-image: url(../../img/card-2-1200.jpg);
+      background-image: url(../img/card-2-1200.jpg);
     }
     &__item:nth-child(3) {
-      background-image: url(../../img/card-3-1200.jpg);
+      background-image: url(../img/card-3-1200.jpg);
     }
     &__item:nth-child(4) {
-      background-image: url(../../img/card-4-1200.jpg);
+      background-image: url(../img/card-4-1200.jpg);
     }
   }
 }
@@ -164,16 +164,16 @@
     }
 
     &__item:nth-child(1) {
-      background-image: url(../../img/card-1-899.jpg);
+      background-image: url(../img/card-1-899.jpg);
     }
     &__item:nth-child(2) {
-      background-image: url(../../img/card-2-899.jpg);
+      background-image: url(../img/card-2-899.jpg);
     }
     &__item:nth-child(3) {
-      background-image: url(../../img/card-3-899.jpg);
+      background-image: url(../img/card-3-899.jpg);
     }
     &__item:nth-child(4) {
-      background-image: url(../../img/card-4-899.jpg);
+      background-image: url(../img/card-4-899.jpg);
     }
   }
 }
@@ -215,16 +215,16 @@
     }
 
     &__item:nth-child(1) {
-      background-image: url(../../img/card-1-599.jpg);
+      background-image: url(../img/card-1-599.jpg);
     }
     &__item:nth-child(2) {
-      background-image: url(../../img/card-2-599.jpg);
+      background-image: url(../img/card-2-599.jpg);
     }
     &__item:nth-child(3) {
-      background-image: url(../../img/card-3-599.jpg);
+      background-image: url(../img/card-3-599.jpg);
     }
     &__item:nth-child(4) {
-      background-image: url(../../img/card-4-599.jpg);
+      background-image: url(../img/card-4-599.jpg);
     }
   }
 }

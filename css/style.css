@@ -408,10 +408,10 @@ body {
   grid-row: 1/3;
 }
 .services__item:nth-child(1) {
-  background-image: url(../../img/card-1.jpg);
+  background-image: url(../img/card-1.jpg);
 }
 .services__item:nth-child(4) {
-  background-image: url(../../img/card-4.jpg);
+  background-image: url(../img/card-4.jpg);
 }
 .services__item:nth-child(2) {
   -ms-grid-column: 2;
@@ -420,7 +420,7 @@ body {
   -ms-grid-row: 1;
   -ms-grid-row-span: 1;
   grid-row: 1/2;
-  background-image: url(../../img/card-2.jpg);
+  background-image: url(../img/card-2.jpg);
 }
 .services__item:nth-child(3) {
   -ms-grid-column: 2;
@@ -429,7 +429,7 @@ body {
   -ms-grid-row: 2;
   -ms-grid-row-span: 1;
   grid-row: 2/3;
-  background-image: url(../../img/card-3.jpg);
+  background-image: url(../img/card-3.jpg);
 }
 .services__card {
   display: -webkit-box;
@@ -496,16 +496,16 @@ body {
     grid-row: auto;
   }
   .services__item:nth-child(1) {
-    background-image: url(../../img/card-1-1200.jpg);
+    background-image: url(../img/card-1-1200.jpg);
   }
   .services__item:nth-child(2) {
-    background-image: url(../../img/card-2-1200.jpg);
+    background-image: url(../img/card-2-1200.jpg);
   }
   .services__item:nth-child(3) {
-    background-image: url(../../img/card-3-1200.jpg);
+    background-image: url(../img/card-3-1200.jpg);
   }
   .services__item:nth-child(4) {
-    background-image: url(../../img/card-4-1200.jpg);
+    background-image: url(../img/card-4-1200.jpg);
   }
 }
 @media (max-width: 899px) {
@@ -514,16 +514,16 @@ body {
     grid-template-columns: 1fr;
   }
   .services__item:nth-child(1) {
-    background-image: url(../../img/card-1-899.jpg);
+    background-image: url(../img/card-1-899.jpg);
   }
   .services__item:nth-child(2) {
-    background-image: url(../../img/card-2-899.jpg);
+    background-image: url(../img/card-2-899.jpg);
   }
   .services__item:nth-child(3) {
-    background-image: url(../../img/card-3-899.jpg);
+    background-image: url(../img/card-3-899.jpg);
   }
   .services__item:nth-child(4) {
-    background-image: url(../../img/card-4-899.jpg);
+    background-image: url(../img/card-4-899.jpg);
   }
 }
 @media (max-width: 599px) {
@@ -555,15 +555,15 @@ body {
     padding: 12px 24px;
   }
   .services__item:nth-child(1) {
-    background-image: url(../../img/card-1-599.jpg);
+    background-image: url(../img/card-1-599.jpg);
   }
   .services__item:nth-child(2) {
-    background-image: url(../../img/card-2-599.jpg);
+    background-image: url(../img/card-2-599.jpg);
   }
   .services__item:nth-child(3) {
-    background-image: url(../../img/card-3-599.jpg);
+    background-image: url(../img/card-3-599.jpg);
   }
   .services__item:nth-child(4) {
-    background-image: url(../../img/card-4-599.jpg);
+    background-image: url(../img/card-4-599.jpg);
   }
 }
